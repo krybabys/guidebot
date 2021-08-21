@@ -13,7 +13,7 @@ const defaultSettings = {
   "commandReply": "true",
   "welcomeChannel": "welcome",
   "welcomeMessage": "Say hello to {{user}}, everyone! We all need a warm welcome sometimes :D",
-  "welcomeEnabled": "false"
+  "welcomeEnabled": "true"
 };
 
 const settings = new Enmap({
